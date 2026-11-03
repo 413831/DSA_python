@@ -1,6 +1,6 @@
-# ElevenLabs Async TTS — Interview Prep & Event-Driven Reference Backend
+# Async TTS — Interview Prep & Event-Driven Reference Backend
 
-Proyecto de referencia diseñado desde la perspectiva de un **Staff Engineer en ElevenLabs** para preparar una entrevista técnica en vivo (**CoderPad, 90 min, problemas de nivel medio**). Simula un pipeline real de **Text-to-Speech (TTS) asíncrono** combinando estructuras de datos clásicas, arquitectura orientada a eventos (`asyncio`) y buenas prácticas de producción en Python/FastAPI.
+Proyecto de referencia diseñado desde la perspectiva de un **Staff Engineer** para preparar una entrevista técnica en vivo (**CoderPad, 90 min, problemas de nivel medio**). Simula un pipeline real de **Text-to-Speech (TTS) asíncrono** combinando estructuras de datos clásicas, arquitectura orientada a eventos (`asyncio`) y buenas prácticas de producción en Python/FastAPI.
 
 ---
 
