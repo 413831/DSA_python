@@ -15,7 +15,7 @@ class SynthesizeRequest(BaseModel):
         max_length=10_000,
         description="Input text with optional simplified SSML tags (<emphasis>, <break time='500ms'/>).",
         examples=[
-            "Hello world! <break time='500ms'/> Welcome to <emphasis level='strong'>ElevenLabs</emphasis> streaming TTS."
+            "Hello world! <break time='500ms'/> Welcome to <emphasis level='strong'>My World</emphasis>."
         ],
     )
     voice_id: str = Field(
