@@ -1,2 +1,2 @@
-"""ElevenLabs Async TTS Interview Simulation Package."""
+""" Async TTS Interview Simulation Package."""
 
